@@ -1,9 +1,0 @@
-{
-  "target": "cobblemon:reshiram",
-  "baseScale": 0.9,
-  "hitbox": {
-    "width": 4,
-    "height": 5,
-    "fixed": false
-  }
-}
